@@ -1,0 +1,99 @@
+body{
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: black;
+    
+ }
+
+ .logo {
+     margin: 40px 40px 40px 40px;
+ }
+
+ ul {
+    list-style-type: none;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: black;
+    opacity: 0.75;
+    padding: 15px;
+    }
+
+li {
+    float: left;
+}
+    
+a {
+    text-decoration: none;
+    color: black;
+    padding: 8px;
+}
+
+a:hover, a:active {
+    text-decoration: underline;
+}
+
+#main {
+    text-align: center;
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+    padding-top: 70px;
+ 
+}
+
+input {
+    height: 40px;
+    width: 450px;
+    border: solid 1px grey;
+    border-radius: 28px;
+}
+
+.button {
+    background-color: rgb(211, 211, 211, 0.75);
+    border: 1px solid #f2f2f2;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+}
+
+.languages{ 
+    text-align: center;
+    font-size: 13px;
+    padding: 10px;
+}
+
+.lan {
+    color: blue;
+}
+
+.search-bar:hover, .search-bar:active {
+    box-shadow: 0 1px 1px 0 lightgrey;
+}
+
+.footer1 {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: 0px 0px 45px -10px;
+    color: grey;
+    border: solid 1px white;
+    background: rgb(240, 240, 240);
+    font-size: 15px;
+    padding: 12px 0px 10px 30px;
+}
+
+.footer2{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: 10px 0px 0px -10px;
+    border: solid 1px white;
+    background: rgb(240, 240, 240);
+    font-size: 14px;
+    color: grey;
+    padding: 5px 0px 10px 15px;
+    opacity: 0.75;
+}
