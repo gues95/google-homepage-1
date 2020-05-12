@@ -2,4 +2,4 @@
  
 ## recreating the google homepage ##
 
-![image](https://github.com/kimberlyohq/google-homepage/blob/master/images/homepage.png)
+https://gues95.github.io/google-homepage/
